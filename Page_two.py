@@ -7,7 +7,7 @@ import psutil
 # Define function1 to start Record_key.py process
 def function1():
     # Create a label
-    label = tk.Label(root, text="Recording in progress...", bg="yellow", width=40, height=3)
+    label = tk.Label(root, text="Recording in progress...", bg="green", width=40, height=3)
     label.pack(pady=5)  # Pack the label into the main window
     root.update()  # Update the window to display the label
     
