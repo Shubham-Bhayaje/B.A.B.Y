@@ -4,7 +4,7 @@ import time
 import os
 import psutil
 
-# Define function1 to start Record_key.py process
+
 def function1():
     # Create a label
     label = tk.Label(root, text="Recording in progress...", bg="green", width=40, height=3)
