@@ -2,6 +2,7 @@ import tkinter as tk
 import json
 import os
 
+
 def add_command():
     command = entry.get("1.0", "end-1c")  # Get the text from the Text widget
     if not command:

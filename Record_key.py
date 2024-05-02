@@ -4,6 +4,7 @@ from pynput.mouse import Listener as MouseListener
 from pynput.keyboard import Listener as KeyListener, Key
 import tkinter as tk
 
+
 with open('data.json', 'r') as json_file:
     data = json.load(json_file)
 
