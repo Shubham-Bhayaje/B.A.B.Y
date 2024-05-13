@@ -27,5 +27,23 @@
         "Mouse Click: (560, 769)",
         "Mouse Click: (191, 199)",
         "Mouse Click: (1793, 629)"
+    ],
+    "msg": [
+        "Mouse Click: (654, 1068)",
+        "Key Pressed: w",
+        "Key Pressed: g",
+        "Special Key Pressed: Key.backspace",
+        "Key Pressed: h",
+        "Key Pressed: a",
+        "Mouse Click: (757, 257)",
+        "Mouse Click: (399, 217)",
+        "Mouse Click: (870, 822)",
+        "Mouse Click: (854, 967)",
+        "Key Pressed: h",
+        "Key Pressed: i",
+        "Key Pressed: i",
+        "Mouse Click: (1336, 969)",
+        "Mouse Click: (1361, 21)",
+        "Special Key Pressed: Key.delete"
     ]
 }
